@@ -8,7 +8,6 @@ public class MyClass {
 	//Constructor vacio
 	public MyClass() {
 		}
-	
 	//Constructor
 	public MyClass(Time hora) {
 		this.hora= hora;
